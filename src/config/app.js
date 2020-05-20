@@ -15,7 +15,7 @@ defaultExport.adminConfig={
   },
   "showItemIDs":false,
   "allowedUsers":null, //If null, allow all users, else it should be array of allowd users
-  "adminUsers":[],
+  "adminUsers":[bgnusameera1@gmail.com],
   "allowGoogleAuth":true, //Allowed users must contain list of allowed users in order to use google auth
   "allowRegistration": true,
   "fieldBoxName": "Fields",
